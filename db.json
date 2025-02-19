@@ -1,0 +1,39 @@
+{
+  "Employe": [
+    {
+      "name": "ganesh",
+      "age": "23",
+      "address": "mdp",
+      "mobile": "7418529632",
+      "id": "52e9"
+    },
+    {
+      "name": "vishnu ",
+      "age": "25",
+      "address": "mdp",
+      "mobile": "1973824651",
+      "id": "c3df"
+    },
+    {
+      "name": "mohan",
+      "age": "25",
+      "address": "bikkavolu",
+      "mobile": "1236987456",
+      "id": "3f68"
+    },
+    {
+      "name": "venkatesh",
+      "age": "25",
+      "address": "muramanda",
+      "mobile": "1234569875",
+      "id": "2829"
+    },
+    {
+      "name": "manikanta",
+      "age": "25",
+      "address": "mdp",
+      "mobile": "7418529631",
+      "id": "a233"
+    }
+  ]
+}
